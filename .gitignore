@@ -69,3 +69,5 @@ dist
 # Parcel
 .cache
 dist
+
+log.txt
